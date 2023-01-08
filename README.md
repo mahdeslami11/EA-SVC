@@ -67,5 +67,6 @@ Articles related to the project:
 Abstracts of articles:
 [Abstracts of articles.pdf](https://github.com/yasihsni/EA-SVC/files/10369055/Abstracts.of.articles.pdf)
 
-
+Project link:
+https://github.com/hhguo/EA-SVC
 
