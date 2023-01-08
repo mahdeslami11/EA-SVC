@@ -29,3 +29,7 @@ discrimina- torDF isproposedtoremovepitchandtimbrerelatedinformation that remain
 system outperforms conventional cascade approach and the WaveNet based end-to-end approach in terms of both singing
 quality and singer similarity. Further objective analysis reveals that the model trained with the proposed two-stage
 training strat- egy can produce a smoother and sharper formant which leads to higher audio quality.
+[EA-SVC.pdf](https://github.com/yasihsni/EA-SVC/files/10368994/EA-SVC.pdf)
+[Abstract of article.pdf](https://github.com/yasihsni/EA-SVC/files/10368996/Abstract.of.article.pdf)
+[Project summary.pdf](https://github.com/yasihsni/EA-SVC/files/10369000/Project.summary.pdf)[Tables of article.pdf](https://github.com/yasihsni/EA-SVC/files/10369011/Tables.of.article.pdf)
+
